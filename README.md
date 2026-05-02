@@ -14,4 +14,4 @@ Configure the number of links, masses, lengths, and starting angles with a sleek
 ![Double Pendulum](assets/double_pendulum.webp)
 
 ### Hexa Pendulum (6 Links)
-![Hexa Pendulum](assets/hexa_pendulum.webp)
+![Hexa Pendulum](assets/hexa_pendulum_v2.webp)
